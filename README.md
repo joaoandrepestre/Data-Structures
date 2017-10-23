@@ -8,6 +8,9 @@ Feel free to use it, contribute to it or leave constructive criticism.
 
 ## Structures Featured 
 
+### Linked List
+
+Implements a doubly linked list with references to both the first and last elements.
 
 
 
